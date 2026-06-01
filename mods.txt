@@ -1,0 +1,33 @@
+Arbiters of Hexis:
+Centaur Aegis
+Corvas Barrel
+Cyngas Barrel
+Decurion Barrel
+Phaedra Barrel
+
+Cephalon Suda:
+Corvas Receiver
+Cyngas Receiver
+Decurion Receiver
+Fluctus Barrel
+Velocitus Barrel
+
+Steel Meridian:
+Corvas Stock
+Fluctus Stock
+Agkuza Guard
+Kaszas Handle
+Velocitus Receiver
+
+Cetus:
+Covert Bond
+Manifold Bond
+Mystic Bond
+Restorative Bond
+Tandem Bond
+
+Fortuna:
+Aerial Bond
+Astral Bond
+Reinforced Bond
+Tenacious Bond

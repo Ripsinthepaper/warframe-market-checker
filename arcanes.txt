@@ -1,0 +1,54 @@
+Little Duck:
+Virtuous Spike
+Virtuous Surge
+Virtuous Forge
+Virtuous Trojan
+Magus Anomaly
+Magus Destruct
+Magus Drive
+Magus Firewall
+Magus Lockdown
+Magus Accelerant
+Magus Glitch
+Magus Melt
+Magus Overload
+Magus Repair
+Magus Revert
+
+Roathe:
+Primary Bulwark
+Primary Overcharge
+Primary Debilitate
+Secondary Irradiate
+Melee Careen
+Arcane Expertise
+Arcane Persistence
+Arcane Circumvent
+Arcane Concentration
+
+Höllvania:
+Arcane Bellicose
+Arcane Truculence
+Arcane Impetus
+Arcane Camisado
+Arcane Crepuscular
+Primary Crux
+Secondary Enervate
+Melee Doughty
+
+Zariman:
+Cascadia Accuracy
+Cascadia Empowered
+Cascadia Flare
+Cascadia Overcharge
+Emergence Dissipate
+Emergence Renewed
+Emergence Savior
+Eternal Eradicate
+Eternal Logistics
+Eternal Onslaught
+Fractalized Reset
+Molt Augmented
+Molt Efficiency
+Molt Reconstruct
+Molt Vigor
