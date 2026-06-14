@@ -31,3 +31,10 @@ Aerial Bond
 Astral Bond
 Reinforced Bond
 Tenacious Bond
+
+Deimos:
+Contagious Bond
+Duplex Bond
+Seismic Bond
+Vicious Bond
+Martyr Simbiosis
