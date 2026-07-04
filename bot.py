@@ -339,6 +339,29 @@ class MainMenu(discord.ui.View):
         )
 
     @discord.ui.button(
+    label="Imprints",
+    style=discord.ButtonStyle.danger
+)
+async def imprints_button(
+    self,
+    interaction: discord.Interaction,
+    button: discord.ui.Button
+):
+
+    grouped = load_grouped(
+        "imprints.txt"
+    )
+
+    await interaction.response.send_message(
+        "Select a faction:",
+        view=FactionView(
+            grouped,
+            False  # imprints behave like mods (no rank filter)
+        ),
+        ephemeral=True
+    )
+
+    @discord.ui.button(
         label="Both",
         style=discord.ButtonStyle.secondary
     )
