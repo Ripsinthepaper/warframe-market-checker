@@ -1,15 +1,21 @@
+Kubrow:
 Chesa Kubrow Imprint
 Huras Kubrow Imprint
 Raksa Kubrow Imprint
 Sahasa Kubrow Imprint
 Sunika Kubrow Imprint
-Helminth Charger Imprint
+
+Predasite:
 Vizier Predasite Imprint
 Pharaoh Predasite Imprint
 Medjay Predasite Imprint
+
+Vulpaphyla:
 Sly Vulpaphyla Imprint
 Crescent Vulpaphyla Imprint
 Panzer Vulpaphyla Imprint
+
+Kavat:
 Vasca Kavat Imprint
 Smeeta Kavat Imprint
 Adarza Kavat Imprint
