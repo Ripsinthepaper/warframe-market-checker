@@ -289,7 +289,6 @@ class FactionView(discord.ui.View):
 class MainMenu(discord.ui.View):
 
     def __init__(self):
-
         super().__init__(timeout=300)
 
     @discord.ui.button(
@@ -302,16 +301,11 @@ class MainMenu(discord.ui.View):
         button: discord.ui.Button
     ):
 
-        grouped = load_grouped(
-            "mods.txt"
-        )
+        grouped = load_grouped("mods.txt")
 
         await interaction.response.send_message(
             "Select a faction:",
-            view=FactionView(
-                grouped,
-                False
-            ),
+            view=FactionView(grouped, False),
             ephemeral=True
         )
 
@@ -325,41 +319,31 @@ class MainMenu(discord.ui.View):
         button: discord.ui.Button
     ):
 
-        grouped = load_grouped(
-            "arcanes.txt"
-        )
+        grouped = load_grouped("arcanes.txt")
 
         await interaction.response.send_message(
             "Select a faction:",
-            view=FactionView(
-                grouped,
-                True
-            ),
+            view=FactionView(grouped, True),
             ephemeral=True
         )
 
     @discord.ui.button(
-    label="Imprints",
-    style=discord.ButtonStyle.danger
-)
-async def imprints_button(
-    self,
-    interaction: discord.Interaction,
-    button: discord.ui.Button
-):
-
-    grouped = load_grouped(
-        "imprints.txt"
+        label="Imprints",
+        style=discord.ButtonStyle.danger
     )
+    async def imprints_button(
+        self,
+        interaction: discord.Interaction,
+        button: discord.ui.Button
+    ):
 
-    await interaction.response.send_message(
-        "Select a faction:",
-        view=FactionView(
-            grouped,
-            False  # imprints behave like mods (no rank filter)
-        ),
-        ephemeral=True
-    )
+        grouped = load_grouped("imprints.txt")
+
+        await interaction.response.send_message(
+            "Select a faction:",
+            view=FactionView(grouped, False),
+            ephemeral=True
+        )
 
     @discord.ui.button(
         label="Both",
@@ -372,10 +356,7 @@ async def imprints_button(
     ):
 
         await interaction.response.send_message(
-            (
-                "Choose Mods or Arcanes for now.\n"
-                "Combined mode will be added later."
-            ),
+            "Choose Mods or Arcanes for now.\nCombined mode will be added later.",
             ephemeral=True
         )
 
