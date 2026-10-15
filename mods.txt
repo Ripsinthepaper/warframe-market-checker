@@ -38,3 +38,16 @@ Duplex Bond
 Seismic Bond
 Vicious Bond
 Martyr Simbiosis
+
+Cephalon Simaris:
+Ambush
+Astral Autopsy
+Botanist
+Detect Vulnerability
+Energy Conversion
+Energy Generator
+Health Conversion
+Looter
+Negate
+Reawaken
+Companion Weapon Riven Mod (Veiled)
