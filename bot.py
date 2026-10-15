@@ -345,20 +345,6 @@ class MainMenu(discord.ui.View):
             ephemeral=True
         )
 
-    @discord.ui.button(
-        label="Both",
-        style=discord.ButtonStyle.secondary
-    )
-    async def both_button(
-        self,
-        interaction: discord.Interaction,
-        button: discord.ui.Button
-    ):
-
-        await interaction.response.send_message(
-            "Choose Mods or Arcanes for now.\nCombined mode will be added later.",
-            ephemeral=True
-        )
 
 
 # ==================================================
