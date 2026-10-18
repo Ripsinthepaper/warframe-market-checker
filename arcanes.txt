@@ -52,3 +52,16 @@ Molt Augmented
 Molt Efficiency
 Molt Reconstruct
 Molt Vigor
+
+Praghasa:
+Melee Fortification
+Melee Retaliation
+Arcane Battery
+Arcane Ice Storm
+Melee Afflictions
+Melee Animosity
+Melee Exposure
+Melee Influence
+Melee Vortex
+Secondary Fortifier
+Secondary Surge
