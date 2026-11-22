@@ -28,7 +28,7 @@ Arcane Concentration
 
 Marie:
 Zid_An Uskos
-Zid_An Sek-Eel
+Zid_An Sek_Eel
 Zid_An Osbok
 Zid_An Haras
 Zid_An Asheir
