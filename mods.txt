@@ -1,24 +1,24 @@
 Marie:
-Ubri-Kaneph
-Metem-Hakh
-Metem-Erun
-Lashta-Vak
-Esti Vel-Ikha
-Empazu-Shol
-Vik-Anam
-Sil-Tabol
-Omn-Evi
-Kaal-zidi
-Da-Ren
+Ubri_Kaneph
+Metem_Hakh
+Metem_Erun
+Lashta_Vak
+Esti Vel_Ikha
+Empazu_Shol
+Vik_Anam
+Sil_Tabol
+Omn_Evi
+Kaal_zidi
+Da_Ren
 Yar Dal
-Vikla-Safor
-Ulashta-Shol
-Talsek-An
-Sey-Taph
-Lorun-Tash
-Hok-Kaal
-Hayan-Dabor
-Evir-Ti
+Vikla_Safor
+Ulashta_Shol
+Talsek_An
+Sey_Taph
+Lorun_Tash
+Hok_Kaal
+Hayan_Dabor
+Evir_Ti
 
 Arbiters of Hexis:
 Centaur Aegis
