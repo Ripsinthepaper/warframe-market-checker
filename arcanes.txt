@@ -27,11 +27,11 @@ Arcane Circumvent
 Arcane Concentration
 
 Marie:
-Zid-An Uskos
-Zid-An Sek-Eel
-Zid-An Osbok
-Zid-An Haras
-Zid-An Asheir
+Zid_An Uskos
+Zid_An Sek-Eel
+Zid_An Osbok
+Zid_An Haras
+Zid_An Asheir
 
 Höllvania:
 Arcane Bellicose
