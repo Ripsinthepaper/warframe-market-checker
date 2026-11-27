@@ -53,6 +53,15 @@ Aerial Bond
 Astral Bond
 Reinforced Bond
 Tenacious Bond
+Assassin Posture
+Protector Posture
+Persistent Posture
+Shocking Claws
+Chilling Claws
+Burning Claws
+Disabling Conditioning
+Brute Conditioning
+Prosperous Retriever
 
 Deimos:
 Contagious Bond
